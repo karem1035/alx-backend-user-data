@@ -1,38 +1,25 @@
-Curriculum <br>
-**Short Specialization** <br>
+# Project Name
+**Higher-level Backend Programming**
 
-# 0x00. Personal data
+## Author's Details
+Name: *Wendy Munyasi.*
 
-`Back-end` `Authentification`
+Email: *wendymunyasi@gmail.com*
 
-#### Concepts
+Tel: *+254707240068.*
 
-_For this project, look at these concepts:_
+## Technologies
+* Shell Scripts written in Bash 5.0.17(1).
+* Python scripts interpreted/compiled using python3 (version 3.8.5).
+* Python scripts use **pycodestyle** (version `2.8.*`).
+* Tested on Ubuntu 20.04 LTS.
 
-* [User management](https://www.intranet.alxswe.com/concepts/558)
+## Projects
+All of the following folders are projects done during the studies:
 
-## Resources
-
-**Read or watch:**
-
-* [What is PII, non-PII, and Personal Data?](https://www.piwik.pro/blog/what-is-pii-personal-data/)
-* [logging documentation](https://www.docs.python.org/3/library/logging.html)
-* [bcrypt package](https://www.github.com/pyca/bcrypt/)
-* [Logging to Files, Setting Levels, and Formatting](https://www.youtube.com/watch?v=-ARI4Cz-awo)
-
-## General Requirement & Setup
-
-* All files intrepreted/compiled on Ubuntu 18.04 LTS using `python3` (version 3.7)
-* All files should end with a new line
-* The first line of files should be exactly shebang `#!/usr/bin/env python3`
-* Mandatory `README.md` file at the root of the project folder/directory
-* Code use the `pycodestyle` style (version 2.5)
-* All files must be executable
-* Length of file tested using `wc`
-* All modules should have documentation (`python3 -c 'print(__import__("my_module").__doc__)'`)
-* All classes should have documentation (`python3 -c 'print(__import__("my_module").MyClass.__doc__)'`)
-* All functions (inside and outside a class) should have a documentation (`python3 -c 'print(__import__("my_module").my_function.__doc__)'` and `python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'`)
-* A documentation is a real sentence explaining purpose of the module, class or method (length will be verified)
-* All functions should be type annotated
-
-## Finally...
+| Project name | Description |
+| ------------ | ----------- |
+| [`0x00. Personal data`](https://github.com/wendymunyasi/alx-backend-user-data/tree/master/0x00-personal_data) | It aims to learn about encrypting user data in **Python language**.|
+| [` 0x01. Basic authentication`](https://github.com/wendymunyasi/alx-backend-user-data/tree/master/0x01-Basic_authentication) | It aims to learn about basic authentication using **Flask** web application framework.|
+| [` 0x02. Session authentication`](https://github.com/wendymunyasi/alx-backend-user-data/tree/master/0x02-Session_authentication) | It aims to learn about session authentication using **Flask** web application framework.|
+| [` 0x03. User authentication service`](https://github.com/wendymunyasi/alx-backend-user-data/tree/master/0x03-user_authentication_service) | It aims to learn about user authentication using **Flask** web application framework.|
